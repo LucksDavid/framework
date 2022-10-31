@@ -1,0 +1,111 @@
+1666259184674	geckodriver	INFO	Listening on 127.0.0.1:58449
+1666259187732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58450" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileFbq48f"
+1666259188165	Marionette	INFO	Marionette enabled
+1666259188169	Marionette	INFO	Listening on port 58466
+Read port: 58466
+WebDriver BiDi listening on ws://127.0.0.1:58450
+1666259188277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileFbq48f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58450/devtools/browser/314cc717-c402-4410-96c8-4478f659cb0c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://thygps.com."
+1666259204180	Marionette	INFO	Stopped listening on port 58466
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666259236390	geckodriver	INFO	Listening on 127.0.0.1:58784
+1666259239452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileuesF5q"
+1666259239705	Marionette	INFO	Marionette enabled
+1666259239710	Marionette	INFO	Listening on port 58798
+WebDriver BiDi listening on ws://127.0.0.1:58785
+Read port: 58798
+1666259239975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileuesF5q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58785/devtools/browser/9c5cc5d6-d919-4537-9a40-eae129878d1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://thygps.com."
+JavaScript error: http://thygps.com/js/axios@0.26.1.js, line 515: Error: Request failed with status code 403
+JavaScript error: http://thygps.com/js/axios@0.26.1.js, line 515: Error: Request failed with status code 403
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://thygps.com."
+1666259284522	Marionette	INFO	Stopped listening on port 58798
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 24148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666259415123	geckodriver	INFO	Listening on 127.0.0.1:59250
+1666259418172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileDf4rDP"
+1666259418509	Marionette	INFO	Marionette enabled
+1666259418513	Marionette	INFO	Listening on port 59262
+WebDriver BiDi listening on ws://127.0.0.1:59251
+Read port: 59262
+1666259418765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileDf4rDP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59251/devtools/browser/3782ad20-ad26-40a7-a33f-84807a6682fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://thygps.com."
+1666259435430	Marionette	INFO	Stopped listening on port 59262
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666259578776	geckodriver	INFO	Listening on 127.0.0.1:59702
+1666259581843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilerKow8R"
+1666259582088	Marionette	INFO	Marionette enabled
+1666259582091	Marionette	INFO	Listening on port 59713
+WebDriver BiDi listening on ws://127.0.0.1:59703
+Read port: 59713
+1666259582370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilerKow8R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59703/devtools/browser/6427a1a3-3472-43cd-8df5-e7a9de440405
+JavaScript error: , line 0: uncaught exception: Object
+1666259595157	Marionette	INFO	Stopped listening on port 59713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667193407028	geckodriver	INFO	Listening on 127.0.0.1:59132
+1667193410099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileiGriV5"
+1667193410557	Marionette	INFO	Marionette enabled
+1667193410561	Marionette	INFO	Listening on port 59147
+Read port: 59147
+WebDriver BiDi listening on ws://127.0.0.1:59133
+1667193410732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileiGriV5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59133/devtools/browser/da4f0c1b-7d33-4fe9-8840-6386db1ee0e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://thygps.com."
+JavaScript error: http://thygps.com/js/axios@0.26.1.js, line 515: Error: Request failed with status code 404
+JavaScript error: http://thygps.com/js/axios@0.26.1.js, line 515: Error: Request failed with status code 404
+JavaScript error: http://thygps.com/js/axios@0.26.1.js, line 515: Error: Request failed with status code 404
+JavaScript error: http://thygps.com/js/axios@0.26.1.js, line 515: Error: Request failed with status code 404
+1667193420479	Marionette	INFO	Stopped listening on port 59147
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667195063270	geckodriver	INFO	Listening on 127.0.0.1:62020
+1667195066344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileFiLGCm"
+1667195066772	Marionette	INFO	Marionette enabled
+1667195066776	Marionette	INFO	Listening on port 62036
+Read port: 62036
+WebDriver BiDi listening on ws://127.0.0.1:62021
+1667195066950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileFiLGCm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62021/devtools/browser/260fcfda-0727-4ec1-9569-5f92aba2aef7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://thygps.com."
+JavaScript error: http://thygps.com/js/axios@0.26.1.js, line 515: Error: Request failed with status code 404
+JavaScript error: http://thygps.com/js/axios@0.26.1.js, line 515: Error: Request failed with status code 404
+JavaScript error: http://thygps.com/js/axios@0.26.1.js, line 515: Error: Request failed with status code 404
+JavaScript error: http://thygps.com/js/axios@0.26.1.js, line 515: Error: Request failed with status code 404
+1667195076665	Marionette	INFO	Stopped listening on port 62036
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667196017871	geckodriver	INFO	Listening on 127.0.0.1:63536
+1667196020936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileWhUKlB"
+1667196021177	Marionette	INFO	Marionette enabled
+1667196021180	Marionette	INFO	Listening on port 63547
+Read port: 63547
+WebDriver BiDi listening on ws://127.0.0.1:63537
+1667196021314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileWhUKlB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63537/devtools/browser/eb514433-a3b7-440c-9911-691192073a9f
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=74a38de1b7a34b0a2ea92124a06fb124, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=74a38de1b7a34b0a2ea92124a06fb124&plugin=AMap.DistrictSearch,%20AMap.MarkerClusterer, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667196046749	Marionette	INFO	Stopped listening on port 63547
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667196683197	geckodriver	INFO	Listening on 127.0.0.1:64639
+1667196686264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileeYSH3Q"
+1667196686505	Marionette	INFO	Marionette enabled
+1667196686508	Marionette	INFO	Listening on port 64650
+Read port: 64650
+WebDriver BiDi listening on ws://127.0.0.1:64640
+1667196686630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileeYSH3Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64640/devtools/browser/4a40eafd-ed38-48d9-bab2-ec668e0e296a
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=74a38de1b7a34b0a2ea92124a06fb124, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=74a38de1b7a34b0a2ea92124a06fb124&plugin=AMap.DistrictSearch,%20AMap.MarkerClusterer, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://116.171.1.232:8996."
+1667196718313	Marionette	INFO	Stopped listening on port 64650
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
