@@ -13,9 +13,9 @@ class LoginPage(BasePage):
     file_path = "./data/url.ini"
     config_list = config.read_config(file_path)
     current_url = config_list[0][1]
-    username_loc = (By.XPATH, "//input[@type='txt']")
-    password_loc = (By.XPATH, "//input[@type='password']")
-    submit_loc = (By.XPATH, "//input[@type='button']")
+    username_loc = (By.XPATH, "//input[@placeholder=’账户‘]")
+    password_loc = (By.XPATH, "//input[@placeholder='密码']")
+    submit_loc = (By.XPATH, "//button")
 
     # 封装页面动作，统一管理
     def login_ecshop(self, username, password):

@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Oct 31 14:11:39 CST 2022","Mon Oct 31 14:11:40 CST 2022","262","testcase","test_login","TestLogin","","","test_01_login[caseinfo1]",""
-"passed","Mon Oct 31 14:11:27 CST 2022","Mon Oct 31 14:11:39 CST 2022","12249","testcase","test_login","TestLogin","","","test_01_login[caseinfo0]",""
+"broken","Tue Nov 15 17:24:34 CST 2022","Tue Nov 15 17:24:40 CST 2022","6087","testcase","test_login","TestLogin","","","test_01_login[caseinfo0]",""
+"broken","Tue Nov 15 17:24:41 CST 2022","Tue Nov 15 17:24:41 CST 2022","67","testcase","test_login","TestLogin","","","test_01_login[caseinfo1]",""
